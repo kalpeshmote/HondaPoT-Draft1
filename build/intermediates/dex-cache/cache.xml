@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/kalpesh/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-core/2.3.3/45991c46f31e5fb14777759e0300abc156c6efa8/aws-android-sdk-core-2.3.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="45991c46f31e5fb14777759e0300abc156c6efa8">
+        <dex dex="/Users/kalpesh/Desktop/AWS/AWS/HondaPoT-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/aws-android-sdk-core-2.3.3_8206551fc3441daf21b7a98689e27c446622ad5f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kalpesh/Desktop/AWS/AWS/HondaPoT-aws-my-sample-app-android/MySampleApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="/Users/kalpesh/Desktop/AWS/AWS/HondaPoT-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.1.0_77e7a2bff0ab0c81571d147ce0240b0e0e78c6de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kalpesh/Desktop/AWS/AWS/HondaPoT-aws-my-sample-app-android/MySampleApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
+        <dex dex="/Users/kalpesh/Desktop/AWS/AWS/HondaPoT-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-7.8.0_9d7b16e948ea4941cebc5310c30745894e1755ff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kalpesh/Desktop/AWS/AWS/HondaPoT-aws-my-sample-app-android/MySampleApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="/Users/kalpesh/Desktop/AWS/AWS/HondaPoT-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.0_69620e883a76308d81c8a057fa81e71e627b9cdf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kalpesh/Desktop/AWS/AWS/HondaPoT-aws-my-sample-app-android/MySampleApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="/Users/kalpesh/Desktop/AWS/AWS/HondaPoT-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.1.0_62f7deb6a242ee684722da0a0524e065c082d92f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kalpesh/Desktop/AWS/AWS/HondaPoT-aws-my-sample-app-android/MySampleApp/app/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/Users/kalpesh/Desktop/AWS/AWS/HondaPoT-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-multidex-1.0.1_5fefcb19b36f5ed457e0f991c2612d8743e5be46/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kalpesh/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-mobileanalytics/2.3.3/bfcde9f57f4635e3ec4529b5c5aa3d4a18b6fbce/aws-android-sdk-mobileanalytics-2.3.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="bfcde9f57f4635e3ec4529b5c5aa3d4a18b6fbce">
+        <dex dex="/Users/kalpesh/Desktop/AWS/AWS/HondaPoT-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/aws-android-sdk-mobileanalytics-2.3.3_7b172b1992b9027747c32aa27f73e1476201c503/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kalpesh/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="/Users/kalpesh/Desktop/AWS/AWS/HondaPoT-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.0_dc12444412a6af8e933942a176d0d36ce851f6d9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="/Users/kalpesh/Desktop/AWS/AWS/HondaPoT-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.2.4_d0ce76b63ce905fbab3c5d385c8e1b8692010f19/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kalpesh/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-cognito/2.3.3/62d18ff54e5bdb047ff4df01084370cb15e55c3a/aws-android-sdk-cognito-2.3.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="62d18ff54e5bdb047ff4df01084370cb15e55c3a">
+        <dex dex="/Users/kalpesh/Desktop/AWS/AWS/HondaPoT-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/aws-android-sdk-cognito-2.3.3_d80656ee65360f0d88c0138a2c387d2be13326a3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kalpesh/Desktop/AWS/AWS/HondaPoT-aws-my-sample-app-android/MySampleApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c756d14e99d39471e99013a1e8fd2f3813ed42bf">
+        <dex dex="/Users/kalpesh/Desktop/AWS/AWS/HondaPoT-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-7.8.0_e9ac121908f3af57356168e57cf48f1ce1d2e00d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kalpesh/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-sns/2.3.3/e7b85d3a33f21a3e0447a9889a1c3340ee482e21/aws-android-sdk-sns-2.3.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e7b85d3a33f21a3e0447a9889a1c3340ee482e21">
+        <dex dex="/Users/kalpesh/Desktop/AWS/AWS/HondaPoT-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/aws-android-sdk-sns-2.3.3_513c01a3ff3c701bdecf5c64077b4e677236a2df/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kalpesh/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-sqs/2.3.3/72e1570e3247bb7bccf7a2480ae3e4c57968b685/aws-android-sdk-sqs-2.3.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72e1570e3247bb7bccf7a2480ae3e4c57968b685">
+        <dex dex="/Users/kalpesh/Desktop/AWS/AWS/HondaPoT-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/aws-android-sdk-sqs-2.3.3_b2705f6537b7e8b32eb862ec1ca7e8baba8e6e3c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kalpesh/Desktop/AWS/AWS/HondaPoT-aws-my-sample-app-android/MySampleApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="22fc8e55b5b793f15a2bba6b9a7619f91aad9aeb">
+        <dex dex="/Users/kalpesh/Desktop/AWS/AWS/HondaPoT-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_44502b3475147fc4378505600498520d16d228f1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kalpesh/Desktop/AWS/AWS/HondaPoT-aws-my-sample-app-android/MySampleApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4e07e7e3fb62d589368d44f4b9994846c2fa0a38">
+        <dex dex="/Users/kalpesh/Desktop/AWS/AWS/HondaPoT-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3f68aefec6a52191dbd5b26e72a256a750a2361d/classes.dex" />
+    </item>
+
+</items>
