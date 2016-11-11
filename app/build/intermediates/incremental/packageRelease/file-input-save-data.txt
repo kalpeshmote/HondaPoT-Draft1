@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Fri Nov 11 21:06:54 IST 2016
+#Fri Nov 11 21:24:14 IST 2016
 20.base=/Users/kalpesh/Desktop/AWS/AWS/HondaPoT-aws-my-sample-app-android/MySampleApp/app/build/intermediates/res/resources-release.ap_
 143.base=/Users/kalpesh/Desktop/AWS/AWS/HondaPoT-aws-my-sample-app-android/MySampleApp/app/build/intermediates/res/resources-release.ap_
 340.file=/Users/kalpesh/Desktop/AWS/AWS/HondaPoT-aws-my-sample-app-android/MySampleApp/app/build/intermediates/res/resources-release.ap_/res/layout-v17/notification_template_lines.xml
