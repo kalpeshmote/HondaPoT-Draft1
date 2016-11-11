@@ -5,29 +5,29 @@
     density="xxhdpi"
     format="8"
     plugin-version="2.2.2"
-    timestamp="41413953642245"
+    timestamp="41966501576146"
     token="-2578026030829836557"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="6361" />
+        duration="2909" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="1683" />
+        duration="2065" />
     <task
         name="verifier"
-        duration="226" />
+        duration="206" />
 
     <artifact
         location="/Users/kalpesh/Desktop/AWS/AWS/HondaPoT-aws-my-sample-app-android/MySampleApp/app/build/outputs/apk/app-debug.apk"
         type="MAIN" />
 
     <build
-        timestamp="41413953642245"
+        timestamp="41966501576146"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/Users/kalpesh/Desktop/AWS/AWS/HondaPoT-aws-my-sample-app-android/MySampleApp/app/build/outputs/apk/app-debug.apk"

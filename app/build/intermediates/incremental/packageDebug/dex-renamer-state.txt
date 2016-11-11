@@ -1,4 +1,4 @@
-#Fri Nov 11 17:15:04 IST 2016
+#Fri Nov 11 17:24:22 IST 2016
 base.0=/Users/kalpesh/Desktop/AWS/AWS/HondaPoT-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_44502b3475147fc4378505600498520d16d228f1
 renamed.1=classes2.dex
 renamed.0=classes.dex

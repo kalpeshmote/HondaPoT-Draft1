@@ -124,7 +124,7 @@
         jumboMode="true"
         optimize="true"
         revision="23.0.1"
-        sha1="22fc8e55b5b793f15a2bba6b9a7619f91aad9aeb">
+        sha1="0e93c5f7606003c2364844482b9252bb08479170">
         <dex dex="/Users/kalpesh/Desktop/AWS/AWS/HondaPoT-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_44502b3475147fc4378505600498520d16d228f1/classes.dex" />
     </item>
     <item
@@ -133,7 +133,7 @@
         jumboMode="true"
         optimize="true"
         revision="23.0.1"
-        sha1="4e07e7e3fb62d589368d44f4b9994846c2fa0a38">
+        sha1="f31cffd4affdef4a50bca115a180f474596ebf9d">
         <dex dex="/Users/kalpesh/Desktop/AWS/AWS/HondaPoT-aws-my-sample-app-android/MySampleApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3f68aefec6a52191dbd5b26e72a256a750a2361d/classes.dex" />
     </item>
 
